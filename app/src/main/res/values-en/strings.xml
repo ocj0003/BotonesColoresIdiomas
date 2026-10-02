@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BotonesColoresIdiomas</string>
+    <string name="nombre">\tOscar Cobos Jaime</string>
+    <string name="boton_color">Change color</string>
+    <string name="boton_idioma">Change language</string>
+</resources>
