@@ -21,12 +21,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/boton_color"
+        android:backgroundTint="@color/verde"
         android:layout_marginBottom="16dp" />
 
     <Button
         android:id="@+id/btnIdioma"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/boton_idioma" />
+        android:text="@string/boton_idioma"
+        android:backgroundTint="@color/rojo" />
 
 </LinearLayout>
